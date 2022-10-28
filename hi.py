@@ -6,3 +6,4 @@ def git_test():
     print("master test")
     print("hot-fix test")
     print("push test")
+    print("pull test")
